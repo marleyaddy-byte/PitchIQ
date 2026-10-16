@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.zip
+.venv/
+venv/
+.env
+data.json
+data_backup.json
+data.json.bak
+*.log
